@@ -7,9 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/shivamp21152119" target="blank"><img src="https://img.shields.io/twitter/follow/shivamp21152119?logo=twitter&style=for-the-badge" alt="shivamp21152119" /></a> </p>
 
+- 🌱 I’m currently Predicting **Payment Dates Using Machine Leanring Techniques Making Revenue Collevction Easier For Fortune 500 Companies**
+
 - 🌱 I’m currently learning **Data Structure And Algorithms**
 
-- 📫 How to reach me **shivampatel2765@gmail.com**
+- 📫 How to reach me **work.shivampatel2765@gmail.com**
 
 - ⚡ Fun fact **One Day, I will make it. And it is going to be Huge!!**
 
